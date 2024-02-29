@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vincent! <br/><a href="www.linkedin.com/in/vincent-chachere-9b3253134/">IT Professional</a>
+<h1>Hey, I'm Vincent! <br/><a href="www.linkedin.com/in/vincent-chachere-9b3253134/">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
