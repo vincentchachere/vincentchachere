@@ -7,7 +7,8 @@
   - [osTicekt: Post-Installation and Configuration](https://github.com/vincentchachere)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/vincentchachere)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/vincentchachere) <b><i>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/vincentchachere)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vincentchachere)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/vincentchachere)
   - [JWipe (Disk Wiping Utility)](https://github.com/vincentchachere)
