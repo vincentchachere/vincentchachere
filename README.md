@@ -3,13 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [osTicekt: Post-Installation and Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Prerequisites and Installation](https://github.com/vincentchachere)
+  - [osTicekt: Post-Installation and Configuration](https://github.com/vincentchachere)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/vincentchachere)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/vincentchachere) <b><i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/vincentchachere)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
