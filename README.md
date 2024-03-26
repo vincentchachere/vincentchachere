@@ -6,15 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/vincentchachere/osticket-prereqs)
   - [osTicket: Post-Installation and Configuration](https://github.com/vincentchachere/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/vincentchachere/ticket-lifestyle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/vincentchachere)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vincentchachere)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/vincentchachere)
-  - [JWipe (Disk Wiping Utility)](https://github.com/vincentchachere)
-  - [Active Directory Bulk User Creation](https://github.com/vincentchachere)
-  - [FIM (File Integrity Monitor)](https://github.com/vincentchachere)
- 
 
 <h2> 🤳 Connect with me:</h2>
 
