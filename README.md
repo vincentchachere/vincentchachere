@@ -14,8 +14,6 @@
 [<img align="left" alt="vincentchachere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://linkedin.com/in/vincentchachere
-[instagram]: https://www.instagram.com/vincentchachere
-[twitter]: https://x.com/vincentchachere
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
