@@ -4,7 +4,7 @@
 
 - <b>Micrsoft Azure</b>
 
-  - [Creating a Virtual Machine on Azure](https://)
+  - [Creating a Virtual Machine on Azure](https://github.com/vincentchachere/virtual-machine)
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/vincentchachere/azure-on-prem-ad)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
