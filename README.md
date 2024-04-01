@@ -1,6 +1,9 @@
-<h1>Hey, I'm Vincent! <br/><a href="www.linkedin.com/in/vincent-chachere-9b3253134/">IT Professional</a>
+# Hey, I'm Vincent! <br/><a href="www.linkedin.com/in/vincent-chachere-9b3253134/">IT Professional</a>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 👨‍💻 Information Technology Projects:
+
+- Micrsoft Azure
+  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/vincentchachere/azure-on-prem-ad)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/vincentchachere/osticket-prereqs)
