@@ -3,6 +3,8 @@
 ## 👨‍💻 Information Technology Projects:
 
 - <b>Micrsoft Azure</b>
+
+  - [Creating a Virtual Machine on Azure]()
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/vincentchachere/azure-on-prem-ad)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
