@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Information Technology Projects:
 
-- Micrsoft Azure
+- <b>Micrsoft Azure</b>
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/vincentchachere/azure-on-prem-ad)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -10,7 +10,7 @@
   - [osTicket: Post-Installation and Configuration](https://github.com/vincentchachere/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/vincentchachere/ticket-lifestyle)
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
 [<img align="left" alt="vincentchachere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
