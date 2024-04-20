@@ -20,6 +20,6 @@
 [<img align="left" alt="vincentchachere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/vincentchachere
 [linkedin]: https://linkedin.com/in/vincentchachere
+[twitter]: https://twitter.com/vincentchachere
 [Instagram]: https://instagram.com/vincentchachere
