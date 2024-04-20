@@ -16,6 +16,6 @@
 
 ## 🤳 Connect with me:
 
-[<img width="200" alt="vincentchachere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img width="25" alt="vincentchachere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/vincentchachere
