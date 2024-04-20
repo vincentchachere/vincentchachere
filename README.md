@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Information Technology Projects:
 
-- <img width="200" alt="osTicket Logo" src="https://github.com/vincentchachere/vincentchachere/assets/161680745/837899d9-cc1f-42c6-b4b8-36198f8df1c3"/>
+- <img width="200" alt="osTicket Logo" src="https://github.com/vincentchachere/vincentchachere/assets/161680745/371c3628-b179-40fb-95cc-f9b3fe58746b"/>
 
   - [osTicket: Prerequisites and Installation](https://github.com/vincentchachere/osticket-prereqs)
   - [osTicket: Post-Installation and Configuration](https://github.com/vincentchachere/post-install-config)
