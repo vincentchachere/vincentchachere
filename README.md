@@ -1,4 +1,5 @@
-# Hey, I'm Vincent! [IT Professional](www.linkedin.com/in/vincentchachere)
+# Hey, I'm Vincent!
+[IT Professional](www.linkedin.com/in/vincentchachere)
 
 ## 👨‍💻 Information Technology Projects:
 
