@@ -13,6 +13,10 @@
   - [Creating a Virtual Machine on Azure](https://github.com/vincentchachere/virtual-machine)
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/vincentchachere/azure-on-prem-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vincentchachere/azure-network-protocols)
+ 
+#### 🌐 Active Directory
+
+  - [Active Directory Infrastructure Setup, Configuration, and Deployment](https://github.com/vincentchachere/Active-Directory-Infrastructure-Deployment-and-Configuration)
 
 ## 🤳 Connect with me:
 
