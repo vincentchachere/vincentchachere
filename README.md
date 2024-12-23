@@ -16,7 +16,7 @@
  
 #### 🌐 Active Directory
 
-  - [Active Directory Infrastructure Setup, Deployment, and Configuration](https://github.com/vincentchachere/Active-Directory-Infrastructure-Deployment-and-Configuration)
+  - [Active Directory Deployment and Configuration](https://github.com/vincentchachere/Active-Directory-Infrastructure-Deployment-and-Configuration)
 
 ## 🤳 Connect with me:
 
