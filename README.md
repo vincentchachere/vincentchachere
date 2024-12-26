@@ -17,6 +17,7 @@
 #### 🌐 Active Directory
 
   - [Active Directory Deployment and Configuration](https://github.com/vincentchachere/Active-Directory-Infrastructure-Deployment-and-Configuration)
+  - [Active Directory Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts/blob/main/README.md)
 
 ## 🤳 Connect with me:
 
