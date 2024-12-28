@@ -19,6 +19,10 @@
   - [Active Directory Deployment and Configuration](https://github.com/vincentchachere/Active-Directory-Infrastructure-Deployment-and-Configuration)
   - [Active Directory Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts/blob/main/README.md)
 
+#### 💻 DNS Resolution
+
+  - [DNS Resolution](https://github.com/vincentchachere/DNS-Fundamentals/blob/main/README.md)
+
 ## 🤳 Connect with me:
 
 [<img width="25" alt="vincentchachere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
