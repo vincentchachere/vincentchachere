@@ -21,7 +21,7 @@
 
 #### 💻 DNS Resolution
 
-  - [DNS Resolution](https://github.com/vincentchachere/DNS-Fundamentals/blob/main/README.md)
+  - [Exploring A-Records, CNAMEs, and Local DNS Cache](https://github.com/vincentchachere/DNS-Fundamentals/blob/main/README.md)
 
 ## 🤳 Connect with me:
 
