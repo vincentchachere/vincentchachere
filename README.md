@@ -17,7 +17,7 @@
 #### 🌐 Active Directory
 
   - [Active Directory Deployment and Configuration](https://github.com/vincentchachere/Active-Directory-Infrastructure-Deployment-and-Configuration)
-  - [Active Directory Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts/blob/main/README.md)
+  - [Active Directory Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts)
   - [Network File Shares and Permissions](https://github.com/vincentchachere/Network-File-Shares-and-Permissions)
 
 #### 💻 DNS Resolution
