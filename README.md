@@ -24,6 +24,10 @@
 
   - [Exploring A-Records, CNAMEs, and Local DNS Cache](https://github.com/vincentchachere/DNS-Fundamentals)
 
+#### 📡 VPN Setup
+
+  - [VPN Setup and Geo-Location](https://github.com/vincentchachere/VPN-Setup-and-Geo-location-Testing)
+
 ## 🤳 Connect with me:
 
 [<img width="25" alt="vincentchachere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
